@@ -1,5 +1,5 @@
 #Overview
-This project is a simple Docker image that runs [JetBrains IntelliJ IDE](http://www.jetbrains.com/).
+This project is a simple Docker image that runs [Apache JMeter](http://jmeter.apache.org/).
 
 #Prerequisites
 * a working [Docker](http://docker.io) engine
